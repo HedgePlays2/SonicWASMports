@@ -24,6 +24,9 @@ Sonic Mania (Plus): https://hedgeplays2.github.io/Sonic-Mania-Plus-WEB/
 
 Sonic CD: https://hedgeplays2.github.io/Sonic-CD-Web/
 
+Sonic 1 Forever and Sonic 2 Abslute: https://www.ayuwoki.online/forever/ 
+Needs the data.rsdks/Apks and the set up zips.
+
 Sonic Worlds Next: (Engine) https://grubbyplaya.github.io/Sonic-Worlds-Next-WASM/Sonic%20Worlds%20Next.html
 
 Sonic 4 Episode 1: https://wamwoowam.github.io/sonic4/
